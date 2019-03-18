@@ -52,6 +52,7 @@ class StoryBrain {
   }
 
 //TODO: Step 16 - Create a property called storyNumber which starts with a value of 0. This will be used to track which story the user is currently viewing.
+  int storyNumber = 0;
 
 //TODO: Step 17 - Create a method called nextStory(), it should not have any outputs but it should have 1 input which will be the choice number (int) made by the user.
 
