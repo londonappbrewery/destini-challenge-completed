@@ -38,6 +38,9 @@ class StoryBrain {
   ];
 
 //TODO: Step 8 - Create a method called getStory() that returns the first storyTitle from _storyData.
+String getStory() {
+  return _storyData[0].storyTitle;
+}
 
 //TODO: Step 11 - Create a method called getChoice1() that returns the text for the first choice1 from _storyData.
 
