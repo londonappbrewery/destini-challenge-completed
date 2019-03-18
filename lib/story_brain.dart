@@ -47,6 +47,9 @@ class StoryBrain {
   }
 
 //TODO: Step 12 - Create a method called getChoice2() that returns the text for the first choice2 from _storyData.
+  String getChoice2() {
+    return _storyData[0].choice2;
+  }
 
 //TODO: Step 16 - Create a property called storyNumber which starts with a value of 0. This will be used to track which story the user is currently viewing.
 
