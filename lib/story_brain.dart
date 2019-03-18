@@ -1,4 +1,8 @@
 //TODO: Step 5 - Create a new class called StoryBrain.
+class StoryBrain {
+
+
+}
 
 //TODO: Step 6 - Uncomment the lines below to include storyData as a private property in StoryBrain.
 
