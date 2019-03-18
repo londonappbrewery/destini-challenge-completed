@@ -1,4 +1,5 @@
 //TODO: Step 6 - import the story.dart file into this file.
+import 'story.dart';
 
 //TODO: Step 5 - Create a new class called StoryBrain.
 class StoryBrain {
@@ -53,4 +54,3 @@ class StoryBrain {
 //TODO: Step 20 - Download the story plan here: https://drive.google.com/uc?export=download&id=1KU6EghkO9Hf2hRM0756xFHgNaZyGCou3
 
 //TODO: Step 21 - Using the story plan, update nextStory to change the storyNumber depending on the choice made by the user.
-
