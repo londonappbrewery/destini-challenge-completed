@@ -3,7 +3,6 @@ import 'story.dart';
 
 //TODO: Step 5 - Create a new class called StoryBrain.
 class StoryBrain {
-
 //TODO: Step 7 - Uncomment the lines below to include storyData as a private property in StoryBrain. Hint: You might need to change something in story.dart to make this work.
   List<Story> _storyData = [
     Story(
@@ -38,9 +37,9 @@ class StoryBrain {
   ];
 
 //TODO: Step 8 - Create a method called getStory() that returns the first storyTitle from _storyData.
-String getStory() {
-  return _storyData[0].storyTitle;
-}
+  String getStory() {
+    return _storyData[0].storyTitle;
+  }
 
 //TODO: Step 11 - Create a method called getChoice1() that returns the text for the first choice1 from _storyData.
 
