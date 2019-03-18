@@ -55,9 +55,7 @@ class StoryBrain {
   int storyNumber = 0;
 
 //TODO: Step 17 - Create a method called nextStory(), it should not have any outputs but it should have 1 input which will be the choice number (int) made by the user.
-  void nextStory(int userChoice) {
-
-  }
+  void nextStory(int userChoice) {}
 
 //TODO: Step 20 - Download the story plan here: https://drive.google.com/uc?export=download&id=1KU6EghkO9Hf2hRM0756xFHgNaZyGCou3
 
