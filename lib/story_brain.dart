@@ -51,9 +51,10 @@ class StoryBrain {
     return _storyData[0].choice2;
   }
 
-  //TODO: Step 23 - Change the storyNumber property into a private property so that only story_brain.dart has access to it. You can do this by right clicking on the name (storyNumber) and selecting Refactor -> Rename to make the change across all the places where it's used.
 
 //TODO: Step 16 - Create a property called storyNumber which starts with a value of 0. This will be used to track which story the user is currently viewing.
+
+  //TODO: Step 23 - Change the storyNumber property into a private property so that only story_brain.dart has access to it. You can do this by right clicking on the name (storyNumber) and selecting Refactor -> Rename to make the change across all the places where it's used.
   int storyNumber = 0;
 
 //TODO: Step 17 - Create a method called nextStory(), it should not have any outputs but it should have 1 input called choiceNumber which will be the choice number (int) made by the user.
@@ -85,6 +86,8 @@ class StoryBrain {
 
 //TODO: Step 20 - Download the story plan here: https://drive.google.com/uc?export=download&id=1KU6EghkO9Hf2hRM0756xFHgNaZyGCou3
 
-//TODO: Step 25 - Create a method called buttonShouldBeVisible() which checks to see if storyNumber is 3 or 4 or 5 (the end of the game) and return true if that is the case, else it should return false.
+//TODO: Step 25 - Create a method called buttonShouldBeVisible() which checks to see if storyNumber is 3 or 4 or 5 (the end of the game) and return true if that is the case, else it should return false.}
+  }
+
 
 }
