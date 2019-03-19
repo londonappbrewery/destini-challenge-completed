@@ -99,4 +99,4 @@ class _StoryPageState extends State<StoryPage> {
   }
 }
 
-//TODO: Step 22 - Run the app and try to figure out what code you need to add to this file to make the story change when you press on the choice buttons.
+//TODO: Step 23 - Run the app and try to figure out what code you need to add to this file to make the story change when you press on the choice buttons.
