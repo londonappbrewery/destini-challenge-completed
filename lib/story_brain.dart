@@ -94,5 +94,4 @@ class StoryBrain {
       return false;
     }
   }
-
 }
